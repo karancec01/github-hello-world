@@ -3,6 +3,8 @@ def add(x, y):
 
 
 def subtract(x, y):
+    if x<y
+        return error
     pass
 
 
